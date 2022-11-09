@@ -1,0 +1,23 @@
+.bg-cover {
+    background-size: cover !important;
+}
+
+header img{
+    border-radius: 50%;
+    border: 1px solid black;
+}
+li{
+    text-align: center;
+}
+
+main {
+    text-align: center;
+}
+
+main img {
+    width: 75%;
+}
+
+ a{
+    text-decoration: none;
+}
